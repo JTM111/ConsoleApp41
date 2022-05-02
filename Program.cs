@@ -8,7 +8,7 @@ namespace ConsoleApp41
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Class!");
             Console.WriteLine("Hello World!" + (new JTM()).Add(1,1));
 
             Console.ReadLine();
